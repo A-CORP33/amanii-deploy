@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: remplacer l'URL par le domaine définitif après mise en ligne
+Sitemap: https://www.amanii-corp.com/sitemap.xml
