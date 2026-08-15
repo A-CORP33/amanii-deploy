@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "221770000000";
+const WHATSAPP_NUMBER = "221772285886";
 
 let currentView = "vue1";
 
